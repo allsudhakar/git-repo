@@ -1,2 +1,3 @@
 this is first line
 second line added in sample fine
+third line added to sample file
